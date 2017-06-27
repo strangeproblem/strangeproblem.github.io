@@ -89,3 +89,5 @@ Politicians do this all the time: say a thing which is technically true but like
 Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
 
 It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
+
+Jot words
