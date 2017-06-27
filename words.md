@@ -50,7 +50,17 @@ To justify this one, I'll reiterate a thought experiment that was told to me in 
 
 Here's another thought experiment: Imagine that your signficant other has cheated on you (and cheating is something that would upset you). Imagine that this cheating only happened once and carried no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
-# Goals sometimes conflict
+# Weighing conflicting goals
+
+As stated eariler, there are multiple goals which are inherently good. Each of these goals does not exist merely to help achieve the other goals. This entails it is possible for these goals to conflict.
+
+Truth conflicting with happiness is a simple case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, my reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
+
+It's not an easy choice. In one case you lose out on happiness, and in the other case you lose out on truth. Because attaining happiness and truth are both goals, it's not obvious what the better case is.
+
+Therfore, the only way to make this choice is to *weigh* the goals for this specific case. We can apply this principle: If the loss of happiness is small and the gain to truth is big, we should choose truth. But if the loss of happiness is big and the gain of truth is small, we should choose happiness. Most choices in life are like this. We must weigh conflicting goals.
+
+Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this document. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
 
 # On identity
 
