@@ -1,22 +1,26 @@
 A Statement of Personal Philosophy
 
-# On mutability
+# About and disclaimers
+
+## On mutability
 
 This document and my ideas are mutable. They are open to being questioned and changed. Just because I had these ideas once doesn't mean that I still have them today. I would like to try to keep this document updated, but no promises. Maybe one day I will forget about it and it will languish on the internet.
 
 Last updated: 27 June 2017
 
-# The difference between law and ethics
+# Decision making
+
+## The difference between law and ethics
 
 The difference between law and ethics is that law describes what you *can* do while ethics describes what you *should* do. To understand the distinction, consider the action of saying a mean thing to someone. There's no law against this, but it's still not something you should do. It is legal but unethical. In general, ethics are stricter than law.
 
 This document is primarily concerned with ethics.
 
-# What should you do?
+## What should you do?
 
 This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do that which best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. Nevertheless, will try to answer those questions here.
 
-# What are your goals?
+## What are your goals?
 
 There are two kinds of goals: those that are good in and of themselves ("inherent goals"), and those that are good because they help you achieve other goals.
 
@@ -32,25 +36,25 @@ Most anyone should agree that these are good things. In order to show they are *
 
 That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: each one one, three of the goals are satisfied and one is missing. Then I will propose that this is a bad world. That will show that all four of the goals are necessary, and one is not merely in service of another.
 
-## A world where you are not happy
+### A world where you are not happy
 
 Imagine a world where the people around you are happy, and you've talked with each of them and come to understand their stories. Furthermore, scientific knowledge flourishes, and everyone has a solid and truthful understand of what's going on in the world and universe. But nevertheless you are miserable. Perhaps there is some aching, physical pain in your body. You are starving, for example. This is not a world you want to live in.
 
-## A world where others are not happy
+### A world where others are not happy
 
 Imagine a similar world except in this one everyone else is suffering but you. Note that you *are* happy in this world even though everyone else isn't (I guess this means you have no empathy). Even though you are happy, is the a world you would work to create? For me, it isn't. Therefore, the happiness of other people is inherently good, and is not only good because it makes you happy.
 
-## A world where people aren't connected
+### A world where people aren't connected
 
 Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway. I guess the people in this world don't get lonely for whatever reason. But, even everyone is happy, is this a world you would work to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
 
-## A world without truth and knowledge
+### A world without truth and knowledge
 
 To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. That's important. The virtual reality world would feel fake and shallow. Thus, knowing the truth about the world is important.
 
 Here's another thought experiment: Imagine that your signficant other has cheated on you (and cheating is something that would upset you). Imagine that this cheating only happened once and carried no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
-# Weighing conflicting goals
+## Weighing conflicting goals
 
 As stated eariler, there are multiple goals which are inherently good. Each of these goals does not exist merely to help achieve the other goals. This entails it is possible for these goals to conflict.
 
@@ -62,9 +66,17 @@ Therfore, the only way to make this choice is to *weigh* the goals for this spec
 
 Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this document. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
 
-# On identity
+## Exepcted goodness
 
-All that matters is what you do, not who you are.
+Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. For example, you may ask your significant other if they chated on you, expecting that the hit to your own personal happiness will be small. But what if it's bigger than you expect? Then it might turn out that asking them was the wrong decision.
+
+Therefore, decisions need to be made taking into account how certain you are of the potential outcomes.
+
+Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed according to your personal values and the situation.
+
+# Identity and culture
+
+## All that matters is what you do, not who you are
 
 Do not ask me if I am a liberal or a conservative. I don't think that's a very useful question to ask. Instead, ask me what actions I think the country should take on a particular issue. That's what really matters.
 
@@ -84,6 +96,10 @@ When you think to yourself: "I'm the kind of person who's not good at math." you
 
 When you label yourself, hearing any argument against your label's position you interpret as a personal attack on your own identity. And once the goodness of your person is brough into question, you will no longer hear logic.
 
+## On culture
+
+Culture is equivalent to identity. All the problems that I complained identity has, culture also has. Therefore I recommend culture being avoided in excess.
+
 # On facts and lies
 
 I hope I've made the case that truth is good. But what is true and what is false is not always so simple.
@@ -100,4 +116,3 @@ Before I go on, you might object by asking me: "Isn't Nancy at fault for not thi
 
 It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
 
-Jot words
