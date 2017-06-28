@@ -8,31 +8,41 @@ I expect that you, reader, will disagree with some of the ideas I've presented. 
 
 This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be wrong, and I am willing to give up on them, or replace them. 
 
-And: just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. I would like to try to keep this document updated, but no promises. Maybe one day I will forget about it and it will languish on the internet.
+Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it, and it will languish on the internet.
 
 Last updated: 28 June 2017
 
+## On misinterpretation
+
+Many readers will misinterpret what I've written. I recognize this is inevitable. Please, before you angrily jump to argue against my ideas, carefully consider if you are understanding the intent behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
+
+In order to help prevent misinterpretation, I have used no sarcasm in this website.
+
 # What should you do?
 
-This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do that which best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. 
+This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do what best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. 
 
-The first section of this website is dedicated to answering this essential question "What should you do?" along with its follow-ups.
+The first section of this website is dedicated to answering the question "What should you do?", along with its follow-ups.
 
 ## Law and ethics
 
-Before we go on, however, let's clarify the difference between law and ethics. Law describes what you *can* do while ethics describes what you *should* do. In general, ethics are stricter than law. 
+Before we go much futher, let's clarify the difference between law and ethics. Law describes what you *can* do while ethics describes what you *should* do. In general, ethics is stricter than law. 
 
-To help understand this distinction, imagine a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, but the world would be a better place if Nancy hadn't said it. It wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
+To help understand this distinction, consider a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, but we must acknowledge that the world would be a better place if Nancy hadn't said it. In other words, it wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
 
 As mentioned above, this document is concerned with the question: "What should you do?". It is concerned primarily with ethics, not with law.
 
 ## What are your goals?
 
-You should do what best achieves your goals, or your objectives. But what are your goals?
+You should do what best achieves your goals. But what are your goals?
 
 There are two kinds of goals: those that are good in and of themselves ("inherent goals"), and those that are good because they help you achieve other goals.
 
-For example, you might argue that becoming happy is an inherent goal. There's no *reason* why you want to be happy -- you just do. In contrast, something like eating lots of cake is a goal but not an inherent goal: the reason you want to eat cake is because it makes you happy, not simply for the sake of eating cake. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. Therefore, in order to know what do do, you must first answer the following question: What are your inherent goals? What is good *in and of itself*, not just because it is in the service of another goal?
+For example, consider the goal of becoming happy. There's no *reason* why you want to be happy -- you just do. It is an inherent goal. In contrast consider the goal of eating cake. There is a reason you want to eat cake: because it makes you happy. Therefore it is not an inherent goal. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. 
+
+Therefore, in order to answer the question "What should you do?" we must first answer the question: "What are you inherent goals?". What is good *in and of itself*, not just because it is in the service of another goal?
+
+## Inherent goals
 
 I propose that the following are the inherent goals of each person:
 * To achieve happiness for yourself. This entails surviving comfortably.
@@ -40,13 +50,15 @@ I propose that the following are the inherent goals of each person:
 * To connect with other people. This means hearing and understanding their life stories, and having them understand your life story.
 * To know truth and knowledge. To understand what's going on in the world and how the universe works.
 
-Most anyone should agree that these are good things. In order to show they are *inherent* goals, though, we must show that each one is not good only because it is used to obtain another. In other words, there will be no way to explain *why* it is good. It will seem good *just because*. This is a hard section to write because it's impossible to justify the claims I'm making. Because of that, I totally understand if you don't fully believe everything I'm saying here. However, I hope that you can at least humor me and agree to roll with these for the remainder of this document.
+Most anyone should agree that these are good things. In order to show they are *inherent* goals, though, we must show that each one is not good only because it is used to obtain another. But this also means there will be no way to explain *why* it is good. It will seem good *just because*. 
 
-That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: each one one, three of the goals are satisfied and one is missing. Then I will propose that this is a bad world. That will show that all four of the goals are necessary, and one is not merely in service of another.
+This is a hard section to write because it's impossible to justify the claims I'm making. Because of that, I understand if you don't fully believe everything I'm saying here. However, I hope that you can at least humor me and agree to roll with these for the remainder of this document.
+
+That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: in each one, three of the goals are satisfied and one is missing. For each, I will propose that it seems like a bad world -- seems like a world you wouldn't work to create. There will be no justification, it will just seem bad. That will show that all four of the goals are necessary for making a good world.
 
 ### A world where you are not happy
 
-Imagine a world where the people around you are happy, and you've talked with each of them and come to understand their stories. Furthermore, scientific knowledge flourishes, and everyone has a solid and truthful understand of what's going on in the world and universe. But nevertheless you are miserable. Perhaps there is some aching, physical pain in your body. You are starving, for example. This is not a world you want to live in.
+Imagine a world where the people around you are happy, and you've talked with each of them and come to understand their stories. Furthermore, scientific knowledge flourishes, and everyone has a solid and truthful understand of what's going on in the world and universe. But nevertheless you are miserable. Maybe there's some aching, physical pain in your body. You are starving, for example. This is not a world you want to live in.
 
 ### A world where others are not happy
 
@@ -54,11 +66,11 @@ Imagine a similar world except in this one everyone else is suffering but you. N
 
 ### A world where people aren't connected
 
-Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway. I guess the people in this world don't get lonely for whatever reason. But, even everyone is happy, is this a world you would work to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
+Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway (I guess the people in this world don't get lonely for whatever reason). But, even though everyone is happy, is this a world you would work to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
 
 ### A world without truth and knowledge
 
-To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. That's important. The virtual reality world would feel fake and shallow. Thus, knowing the truth about the world is important.
+To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel fake and shallow, for some reason.
 
 Here's another thought experiment: Imagine that your signficant other has cheated on you (and cheating is something that would upset you). Imagine that this cheating only happened once and carried no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
@@ -66,7 +78,7 @@ Here's another thought experiment: Imagine that your signficant other has cheate
 
 As stated eariler, there are multiple goals which are inherently good. Each of these goals does not exist merely to help achieve the other goals. This entails it is possible for these goals to conflict.
 
-Truth conflicting with happiness is a simple case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, my reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
+Truth conflicting with happiness is a simple case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
 
 It's not an easy choice. In one case you lose out on happiness, and in the other case you lose out on truth. Because attaining happiness and truth are both goals, it's not obvious what the better case is.
 
