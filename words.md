@@ -102,7 +102,15 @@ Therefore, when weighing the effects on your goals from making choice, you must 
 
 ## Exepcted goodness
 
-Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. For example, you may ask your significant other if they chated on you, expecting that the hit to your own personal happiness will be small. But what if it's bigger than you expect? Then it might turn out that asking them was the wrong decision.
+Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. 
+
+Consider an example scenario where Nancy is the ruler of the world, deciding whether to ban genetically modifying food.
+
+Consider an example scenario where Nancy is deciding whether to ask out Debbie. 
+
+Consider an example scenario where Nancy is a member of a city council, deciding whether to add parking meters downtown. Nancy reasons that the positive effect from this action is that the city will earn money. Nancy reasons that the negative effect from this action is that it will hurt downtown businesses, because shoppers are less likely to visit downtown because they don't want to pay for parking. Nancy weighs the benefits and personal values and is prepared to make a decision.
+
+But wait -- how certain is it that adding parking meters will hurt local business? It might be the case that adding parking meters makes parking easier downtown, which increases throughput of shoppers, which actually ends up raising downtown business. It's hard to tell what will actually happen.
 
 Therefore, decisions need to be made taking into account how certain you are of the potential outcomes. Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed according to your personal values and the situation.
 
