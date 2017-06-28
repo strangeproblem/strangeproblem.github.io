@@ -66,17 +66,45 @@ Therfore, the only way to make this choice is to *weigh* the goals for this spec
 
 Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this document. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
 
+## Incremental effects
+
+I've talked about weighing the effects of choices, and it's important to understand that effects are usually not binary. Usually, a result of a choice is not simply "good" or "bad". It is good or bad with a certain amount. And there are often many ways to attain in-between results.
+
+Consider an example case of deciding whether or not to eat in a vegetarian way. One positive effect of making this choice is that it will reduce carbon emissions into the atmosphere, slowing global warming, and making everyone in the world happier. One negative effect of making this choice is that you will eat less tasty food, making you less happy.
+
+I've often seen this presented as a binary choice. The claim is that people usually "become vegetarian" and then never eat a piece of meat ever again. That's a good choice for the world, and we should applaud those people.
+
+*However*, we must be careful to mind that 99% vegetarianism is almost as good, and those people should be applauded almost as much. If your goal is to reduce carbon emissions, then someone who eats vegetarian 99% of the time is having 99% of the impact. (Actually, it may not be *exactly* 99% impact, but let's not sweat the details. My point is that it has most of the impact.)
+
+The same can be said for any percentage of vegetarianism. 75% vegetarianism is less good than 99% but better than 0%. Similarly 50% vegetarianism is less good than 75% but better than 0%. And so on.
+
+Therefore, when weighing the effects on your goals from making choice, you must consider these incremental effects. The effects won't simply be "good" or "bad", but will be somewhere in between.
+
 ## Exepcted goodness
 
 Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. For example, you may ask your significant other if they chated on you, expecting that the hit to your own personal happiness will be small. But what if it's bigger than you expect? Then it might turn out that asking them was the wrong decision.
 
-Therefore, decisions need to be made taking into account how certain you are of the potential outcomes.
+Therefore, decisions need to be made taking into account how certain you are of the potential outcomes. Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed according to your personal values and the situation.
 
-Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed according to your personal values and the situation.
+## Anomalies and patterns
+
+Imagine a scenario where Nancy's roommate Debbie is playing loud music, and this prevents Nancy from sleeping well. Should Nancy confront Debbie? One positive impact of this choice could be that Debbie turns the music down and Nancy is happier. This is a small effect that is certain to occur. One negative impact of this choice could be that the confrontation goes badly and it ruins their friendship, and both are less happy. This is a big effect, but it's less likely to occur.
+
+Presented like this, it's not obvious what Nancy should do.
+
+Next, supposed that Debbie plays loud music *every single day* for weeks and weeks. Now, it's obvious that Nancy should confront Debbie. Why? Because the incremental negative effects have added up. It's important to understand the positive and negative effects accumulate.
+
+This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, once you have a pattern of negative effects, something must be done. Otherwise they will keep adding up and end up really bad.
+
+## Sum up
+
+When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental, not black and white. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
 
 # Identity and culture
 
 ## All that matters is what you do, not who you are
+
+I do not comment on ideologies or groups of people. I only comment on actions.
 
 Do not ask me if I am a liberal or a conservative. I don't think that's a very useful question to ask. Instead, ask me what actions I think the country should take on a particular issue. That's what really matters.
 
