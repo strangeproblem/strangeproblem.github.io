@@ -100,6 +100,22 @@ This leads us to the following general principle: Often, anomalous negative effe
 
 When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental, not black and white. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
 
+# Morality
+
+## The specialness of people
+
+Up until this point I have pretened that the happiness of yourself and others is quantifiable. Unfortunately, it isn't.
+
+Human beings cannot be ascribed a value. They do not have zero value, they do not have infinite value, and they do not have some finite value. The concept of value actually does not even apply. This is what distinguishes people from objects. They are sacred.
+
+## Utilitarianism and justice
+
+In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*.
+
+But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals. Instead, the independence of other people must be respected. That is because each and every person is special and should not be used merely as a tool to serve society.
+
+To understand this, consider the following thought experiment I heard in my ethics class [TODO thought experiment about hospital]
+
 # Identity and culture
 
 ## All that matters is what you do, not who you are
