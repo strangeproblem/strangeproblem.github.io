@@ -1,26 +1,34 @@
-A Statement of Personal Philosophy
-
 # About and disclaimers
+
+Hello. I am the person who wrote this website. This website is a repository of my personal thoughts to be shared with anyone who is interested.
+
+I expect that you, reader, will disagree with some of the ideas I've presented. That's okay. Actually, the main reason I'm writing this website is because I haven't seen these ideas commonly represented. If everyone already agreed with these ideas, then I wouldn't need to argue in favor of them, right? However, I hope that you will keep an open mind and at least consider my ideas. If you want to submit arguments against them, feel free to send them to me at my contact email address: negative.nancy.ng {at} gmail.com. Don't expect a response, but I may consider your idea and update this website.
 
 ## On mutability
 
-This document and my ideas are mutable. They are open to being questioned and changed. Just because I had these ideas once doesn't mean that I still have them today. I would like to try to keep this document updated, but no promises. Maybe one day I will forget about it and it will languish on the internet.
+This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be wrong, and I am willing to give up on them, or replace them. 
 
-Last updated: 27 June 2017
+And: just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. I would like to try to keep this document updated, but no promises. Maybe one day I will forget about it and it will languish on the internet.
 
-# Decision making
+Last updated: 28 June 2017
 
-## The difference between law and ethics
+# What should you do?
 
-The difference between law and ethics is that law describes what you *can* do while ethics describes what you *should* do. To understand the distinction, consider the action of saying a mean thing to someone. There's no law against this, but it's still not something you should do. It is legal but unethical. In general, ethics are stricter than law.
+This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do that which best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. 
 
-This document is primarily concerned with ethics.
+The first section of this website is dedicated to answering this essential question "What should you do?" along with its follow-ups.
 
-## What should you do?
+## Law and ethics
 
-This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do that which best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. Nevertheless, will try to answer those questions here.
+Before we go on, however, let's clarify the difference between law and ethics. Law describes what you *can* do while ethics describes what you *should* do. In general, ethics are stricter than law. 
+
+To help understand this distinction, imagine a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, but the world would be a better place if Nancy hadn't said it. It wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
+
+As mentioned above, this document is concerned with the question: "What should you do?". It is concerned primarily with ethics, not with law.
 
 ## What are your goals?
+
+You should do what best achieves your goals, or your objectives. But what are your goals?
 
 There are two kinds of goals: those that are good in and of themselves ("inherent goals"), and those that are good because they help you achieve other goals.
 
