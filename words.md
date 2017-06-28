@@ -70,7 +70,7 @@ Now imagine a world where everyone is happy even though people never talk to eac
 
 ### A world without truth and knowledge
 
-To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel fake and shallow, for some reason.
+To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel fake and shallow, for some reason. Reality (and therefore, truth) matters.
 
 Here's another thought experiment: Imagine that your signficant other has cheated on you (and cheating is something that would upset you). Imagine that this cheating only happened once and carried no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
@@ -112,29 +112,50 @@ Imagine a scenario where Nancy's roommate Debbie is playing loud music, and this
 
 Presented like this, it's not obvious what Nancy should do.
 
-Next, supposed that Debbie plays loud music *every single day* for weeks and weeks. Now, it's obvious that Nancy should confront Debbie. Why? Because the incremental negative effects have added up. It's important to understand the positive and negative effects accumulate.
+Next, supposed that Debbie plays loud music *every single day* for weeks and weeks. Now, it's obvious that Nancy should confront Debbie. Why? Because the incremental negative effects have added up. It's important to understand that positive and negative effects accumulate.
 
-This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, once you have a pattern of negative effects, something must be done. Otherwise they will keep adding up and end up really bad.
+This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, once you have a pattern of negative effects, something must be done. Otherwise, they will keep adding up and end up really bad.
 
 ## Sum up
 
-When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental, not black and white. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
+When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental, not black and white, and consider the in-between choices. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
 
-# Morality
+# A wider view of morality
+
+I have presented a framework with which you can evaluate choices and make decisions. In theory, that should be all you need for a complete system of morality. However, that section only presents a microscopic view of decision making, and a complete system of morality also needs a macroscopic view. I will fill that in here.
+
+## Utilitarianism and justice
+
+In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do that which creates the most goodness for the world.
+
+But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals. The independence of other people must be respected.
+
+To understand this, consider the following thought experiment I heard in my ethics class [TODO thought experiment about hospital]
 
 ## The specialness of people
+
+The concept of justice arises from a core tenet of human morality: the inherent specialness of people.
 
 Up until this point I have pretened that the happiness of yourself and others is quantifiable. Unfortunately, it isn't.
 
 Human beings cannot be ascribed a value. They do not have zero value, they do not have infinite value, and they do not have some finite value. The concept of value actually does not even apply. This is what distinguishes people from objects. They are sacred.
 
-## Utilitarianism and justice
+## On facts and lies
 
-In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*.
+I hope I've made the case that truth is an inherent goal. Therefore, morality dictates we should tell the truth. However, this principle is not always so simple, so I will expand upon it.
 
-But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals. Instead, the independence of other people must be respected. That is because each and every person is special and should not be used merely as a tool to serve society.
+It's possible to be misleading by stating true facts, and this is as bad as lying. Also, telling certain lies is sometimes justifiable, if it leads people to better understands. I will illustrate these two points.
 
-To understand this, consider the following thought experiment I heard in my ethics class [TODO thought experiment about hospital]
+Consider a scenario with two characters: Nancy and Debbie. Nancy asks Debbie: "Do you have five children?". Debbie does in fact have five children, but Debbie responds "I have a child."
+
+In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not five." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, being misleading with truth facts in this case is equivalent to lying.
+
+Politicians do this all the time: say a thing which is technically true but likely to mislead people who don't think carefully. This is just as unethical as lying.
+
+Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
+
+It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
+
 
 # Identity and culture
 
@@ -163,20 +184,4 @@ When you label yourself, hearing any argument against your label's position you 
 ## On culture
 
 Culture is equivalent to identity. All the problems that I complained identity has, culture also has. Therefore I recommend culture being avoided in excess.
-
-# On facts and lies
-
-I hope I've made the case that truth is good. But what is true and what is false is not always so simple.
-
-It's possible to be misleading by stating true facts, and this is as bad as lying. Also, telling certain lies is sometimes justifiable, if it leads people to better understands. I will illustrate these two points.
-
-Consider a scenario with two characters: Nancy and Debbie. Nancy asks Debbie: "Do you have five children?". Debbie does in fact have five children, but Debbie responds "I have a child."
-
-In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not five." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, being misleading with truth facts in this case is equivalent to lying.
-
-Politicians do this all the time: say a thing which is technically true but likely to mislead people who don't think carefully. This is just as unethical as lying.
-
-Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
-
-It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
 
