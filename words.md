@@ -6,15 +6,15 @@ I expect that you, reader, will disagree with some of the ideas I've presented. 
 
 ## On mutability
 
-This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be wrong, and I am willing to give up on them, or replace them. 
+This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be wrong, and I am willing to give up on them or replace them. 
 
-Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it, and it will languish on the internet.
+Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. They may be outdated. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it, and it will languish on the internet.
 
 Last updated: 28 June 2017
 
 ## On misinterpretation
 
-Many readers will misinterpret what I've written. I recognize this is inevitable. Please, before you angrily jump to argue against my ideas, carefully consider if you are understanding the intent behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
+I recognize it's inevitable that many readers will misinterpret what I've written. Therefore, I plead you to be careful. Please, before getting angry at what I've written, carefully consider if you are understanding the intent behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
 
 In order to help prevent misinterpretation, I have used no sarcasm in this website.
 
@@ -38,13 +38,13 @@ You should do what best achieves your goals. But what are your goals?
 
 There are two kinds of goals: those that are good in and of themselves ("inherent goals"), and those that are good because they help you achieve other goals.
 
-For example, consider the goal of becoming happy. There's no *reason* why you want to be happy -- you just do. It is an inherent goal. In contrast consider the goal of eating cake. There is a reason you want to eat cake: because it makes you happy. Therefore it is not an inherent goal. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. 
+For example, consider the goal of becoming happy. There's no *reason* why you want to be happy -- you just do. It is an inherent goal. In contrast, consider the goal of eating cake. There is a reason you want to eat cake: because it makes you happy. Therefore it is not an inherent goal. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. 
 
-Therefore, in order to answer the question "What should you do?" we must first answer the question: "What are you inherent goals?". What is good *in and of itself*, not just because it is in the service of another goal?
+In order to answer the question "What should you do?" we must first answer the question: "What are you inherent goals?". What is good *in and of itself*, not just because it is in the service of another goal?
 
 ## Inherent goals
 
-I propose that the following are the inherent goals of each person:
+I propose the following are the inherent goals of each person:
 * To achieve happiness for yourself. This entails surviving comfortably.
 * To achieve happiness for other people.
 * To connect with other people. This means hearing and understanding their life stories, and having them understand your life story.
@@ -54,25 +54,25 @@ Most anyone should agree that these are good things. In order to show they are *
 
 This is a hard section to write because it's impossible to justify the claims I'm making. Because of that, I understand if you don't fully believe everything I'm saying here. However, I hope that you can at least humor me and agree to roll with these for the remainder of this document.
 
-That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: in each one, three of the goals are satisfied and one is missing. For each, I will propose that it seems like a bad world -- seems like a world you wouldn't work to create. There will be no justification, it will just seem bad. That will show that all four of the goals are necessary for making a good world.
+That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: in each one, three of the goals are satisfied and one is missing. For each, I will propose that it seems like a bad world. It will seem like a world you wouldn't deliberately make choices to create. There will be no justification, it will just seem bad. That will show that all four of the goals are necessary for making a good world.
 
 ### A world where you are not happy
 
-Imagine a world where the people around you are happy, and you've talked with each of them and come to understand their stories. Furthermore, scientific knowledge flourishes, and everyone has a solid and truthful understand of what's going on in the world and universe. But nevertheless you are miserable. Maybe there's some aching, physical pain in your body. You are starving, for example. This is not a world you want to live in.
+Imagine a world where the people around you are happy, and you've talked with each of them and come to understand their stories. Furthermore, scientific knowledge flourishes, and everyone has a solid and truthful understand of what's going on in the world and universe. But nevertheless you are miserable. Maybe there's some aching, physical pain in your body. You are starving, for example. This is not a world you would choose to create.
 
 ### A world where others are not happy
 
-Imagine a similar world except in this one everyone else is suffering but you. Note that you *are* happy in this world even though everyone else isn't (I guess this means you have no empathy). Even though you are happy, is the a world you would work to create? For me, it isn't. Therefore, the happiness of other people is inherently good, and is not only good because it makes you happy.
+Imagine a similar world, except in this one everyone else is suffering but you. Note that you *are* happy in this world even though everyone else isn't (I guess this means you have no empathy). Even though you are happy, is the a world you would choose to create? For me, it isn't. If you could choose to make other people happy too, you might as well, right? Therefore, the happiness of other people is inherently good, and is not only good because it makes you happy.
 
 ### A world where people aren't connected
 
-Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway (I guess the people in this world don't get lonely for whatever reason). But, even though everyone is happy, is this a world you would work to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
+Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway (I guess the people in this world don't get lonely for whatever reason). But, even though everyone is happy, is this a world you would choose to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
 
 ### A world without truth and knowledge
 
 To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel fake and shallow, for some reason. Reality (and therefore, truth) matters.
 
-Here's another thought experiment: Imagine that your signficant other has cheated on you (and cheating is something that would upset you). Imagine that this cheating only happened once and carried no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
+Here's another thought experiment: Imagine that your signficant other has cheated on you (also imagine that cheating is something that would upset you). Imagine that this cheating only happens once and carries no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
 ## Weighing conflicting goals
 
@@ -84,17 +84,17 @@ It's not an easy choice. In one case you lose out on happiness, and in the other
 
 Therfore, the only way to make this choice is to *weigh* the goals for this specific case. We can apply this principle: If the loss of happiness is small and the gain to truth is big, we should choose truth. But if the loss of happiness is big and the gain of truth is small, we should choose happiness. Most choices in life are like this. We must weigh conflicting goals.
 
-Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this document. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
+Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this website. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
 
 ## Incremental effects
 
-I've talked about weighing the effects of choices, and it's important to understand that effects are usually not binary. Usually, a result of a choice is not simply "good" or "bad". It is good or bad with a certain amount. And there are often many ways to attain in-between results.
+I've talked about weighing the effects of choices, and it's important to understand that effects are usually not binary. Usually a result of a choice is not simply "good" or "bad". It is good or bad with a certain amount. And there are often many choices that get in-between results.
 
 Consider an example case of deciding whether or not to eat in a vegetarian way. One positive effect of making this choice is that it will reduce carbon emissions into the atmosphere, slowing global warming, and making everyone in the world happier. One negative effect of making this choice is that you will eat less tasty food, making you less happy.
 
-I've often seen this presented as a binary choice. The claim is that people usually "become vegetarian" and then never eat a piece of meat ever again. That's a good choice for the world, and we should applaud those people.
+I've often seen people talk about this like it's a binary choice. The claim is that people usually "become vegetarian" and then never eat a piece of meat ever again. That's a good choice for the world, and we should applaud those people.
 
-*However*, we must be careful to mind that 99% vegetarianism is almost as good, and those people should be applauded almost as much. If your goal is to reduce carbon emissions, then someone who eats vegetarian 99% of the time is having 99% of the impact. (Actually, it may not be *exactly* 99% impact, but let's not sweat the details. My point is that it has most of the impact.)
+However, we must be careful to mind that 99% vegetarianism is *almost* as good, and those people should be applauded *almost* as much. If your goal is to reduce carbon emissions, then someone who eats vegetarian 99% of the time is having 99% of the impact. (Actually, it may not be exactly 99% impact, but let's not sweat the details. My point is that it has most of the impact.)
 
 The same can be said for any percentage of vegetarianism. 75% vegetarianism is less good than 99% but better than 0%. Similarly 50% vegetarianism is less good than 75% but better than 0%. And so on.
 
