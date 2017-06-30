@@ -100,19 +100,17 @@ The same can be said for any percentage of vegetarianism. 75% vegetarianism is l
 
 Therefore, when weighing the effects on your goals from making choice, you must consider these incremental effects. The effects won't simply be "good" or "bad", but will be somewhere in between.
 
-## Exepcted goodness
+## Expected goodness
 
 Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. 
 
-Consider an example scenario where Nancy is the ruler of the world, deciding whether to ban genetically modifying food.
+Consider an example scenario where Nancy is a legislator deciding whether to impose a tariff on shoes. Nancy listens to arguments from both sides: If the tariff is imposed, it will hurt consumers by raising prices, but it will help the country's shoe industry. If the tariff is not imposed, the country's shoe industry will suffer, but consumers will have cheaper prices. Nancy weighs the situation and personal values and is prepared to make a decision.
 
-Consider an example scenario where Nancy is deciding whether to ask out Debbie. 
+But wait! How certain are we that imposing the tariff will have the stated effects? The world is a very complicated place -- there may be lots of hidden effects, and economics 101 arguments are not always going to be accurate. Imagine that Nancy decides not to impose the tariff, but the effects on the country's shoe industry are far worse than predicted. Then it might turn out that Nancy made the wrong decision. Or the vice versa could happen.
 
-Consider an example scenario where Nancy is a member of a city council, deciding whether to add parking meters downtown. Nancy reasons that the positive effect from this action is that the city will earn money. Nancy reasons that the negative effect from this action is that it will hurt downtown businesses, because shoppers are less likely to visit downtown because they don't want to pay for parking. Nancy weighs the benefits and personal values and is prepared to make a decision.
+Having more data and experience will help you reduce uncertainty and make decisions more confidently. But there will always be some uncertainty. It's important to be cognizant of how much uncertainty there is. Decisions need to be made taking into account how certain you are of the potential outcomes. 
 
-But wait -- how certain is it that adding parking meters will hurt local business? It might be the case that adding parking meters makes parking easier downtown, which increases throughput of shoppers, which actually ends up raising downtown business. It's hard to tell what will actually happen.
-
-Therefore, decisions need to be made taking into account how certain you are of the potential outcomes. Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed according to your personal values and the situation.
+Consider another angle on uncertainty: Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed when making decisions.
 
 ## Anomalies and patterns
 
@@ -122,7 +120,7 @@ Presented like this, it's not obvious what Nancy should do.
 
 Next, supposed that Debbie plays loud music *every single day* for weeks and weeks. Now, it's obvious that Nancy should confront Debbie. Why? Because the incremental negative effects have added up. It's important to understand that positive and negative effects accumulate.
 
-This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, once you have a pattern of negative effects, something must be done. Otherwise, they will keep adding up and end up really bad.
+This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, patterns of negative effects must be dealt with. Otherwise, they will keep adding up and end up really bad.
 
 ## Sum up
 
@@ -134,9 +132,9 @@ I have presented a framework with which you can evaluate choices and make decisi
 
 ## Utilitarianism and justice
 
-In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do that which creates the most goodness for the world.
+In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do what creates the most goodness for the world.
 
-But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals. The independence of other people must be respected.
+But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals, because the independence of other people must be respected.
 
 To understand this, consider the following thought experiment I heard in my ethics class [TODO thought experiment about hospital]
 
@@ -147,6 +145,16 @@ The concept of justice arises from a core tenet of human morality: the inherent 
 Up until this point I have pretened that the happiness of yourself and others is quantifiable. Unfortunately, it isn't.
 
 Human beings cannot be ascribed a value. They do not have zero value, they do not have infinite value, and they do not have some finite value. The concept of value actually does not even apply. This is what distinguishes people from objects. They are sacred.
+
+[TODO: Examples with the death of one person, two people]
+
+## The irrationality of ethics
+
+[TODO: How can we hope to be rational if the value of people cannot be weighed precisely? We can't]
+
+## The ethics of "I don't know"
+
+[TODO: Thought experiment about two children falling off a boat]
 
 ## On facts and lies
 
