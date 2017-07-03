@@ -2,21 +2,19 @@
 
 Hello. I am the person who wrote this website. This website is a repository of my personal thoughts to be shared with anyone who is interested.
 
-I expect that you, reader, will disagree with some of the ideas I've presented. That's okay. Actually, the main reason I'm writing this website is because I haven't seen these ideas commonly represented. If everyone already agreed with these ideas, then I wouldn't need to argue in favor of them, right? However, I hope that you will keep an open mind and at least consider my ideas. If you want to submit arguments against them, feel free to send them to me at my contact email address: negative.nancy.ng {at} gmail.com. Don't expect a response, but I may consider your idea and update this website.
+I expect that you, reader, will disagree with some of the ideas I've presented. That's okay. Actually, the main reason I'm writing this website is because I haven't seen these ideas commonly represented. If everyone already agreed with these ideas, then I wouldn't need to argue in favor of them, right? However, I hope that you will keep an open mind and at least consider my ideas.
 
 ## On mutability
 
-This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be wrong, and I am willing to give up on them or replace them. 
+This document and my ideas are mutable. They are open to being questioned and changed. A lot of my ideas may be no good, and I am willing to give up on them or replace them. 
 
-Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. They may be outdated. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it, and it will languish on the internet.
-
-Last updated: 28 June 2017
+Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't mean that I still have them today. This website may be outdated. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it, and it will languish on the internet.
 
 ## On misinterpretation
 
-I recognize it's inevitable that many readers will misinterpret what I've written. Therefore, I plead you to be careful. Please, before getting angry at what I've written, carefully consider if you are understanding the intent behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
+I recognize it's inevitable that many readers will misinterpret what I've written. Therefore, I plead you to be careful. Please, before getting angry at what I've written, carefully consider if you are understanding the *intent* behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
 
-In order to help prevent misinterpretation, I have used no sarcasm in this website.
+In order to help guard against misinterpretation, I have used no sarcasm in this website. I find that it typically does not translate well over the internet.
 
 # What should you do?
 
@@ -28,7 +26,7 @@ The first section of this website is dedicated to answering the question "What s
 
 Before we go much futher, let's clarify the difference between law and ethics. Law describes what you *can* do while ethics describes what you *should* do. In general, ethics is stricter than law. 
 
-To help understand this distinction, consider a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, but we must acknowledge that the world would be a better place if Nancy hadn't said it. In other words, it wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
+To help understand this distinction, consider a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, the world would be a better place if Nancy hadn't said it. In other words, it wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
 
 As mentioned above, this document is concerned with the question: "What should you do?". It is concerned primarily with ethics, not with law.
 
@@ -36,25 +34,26 @@ As mentioned above, this document is concerned with the question: "What should y
 
 You should do what best achieves your goals. But what are your goals?
 
-There are two kinds of goals: those that are good in and of themselves ("inherent goals"), and those that are good because they help you achieve other goals.
+There are two kinds of goals: those that are good in and of themselves, and those that are good because they help you achieve other goals. (In an ethics class I took, these were termed "inherent goals" and "instrumental goals", respectively.)
 
-For example, consider the goal of becoming happy. There's no *reason* why you want to be happy -- you just do. It is an inherent goal. In contrast, consider the goal of eating cake. There is a reason you want to eat cake: because it makes you happy. Therefore it is not an inherent goal. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. 
-
-In order to answer the question "What should you do?" we must first answer the question: "What are you inherent goals?". What is good *in and of itself*, not just because it is in the service of another goal?
+For example, consider the goal of becoming happy. There's no *reason* why you want to be happy -- you just do. It is an inherent goal. In contrast, consider the goal of eating cake. There *is* a reason you want to eat cake: because it makes you happy. Therefore it is not an inherent goal. It's important to distinguish between inherent and non-inherent goals, because once you know your inherent goals you can derive your non-inherent goals. 
 
 ## Inherent goals
 
-I propose the following are the inherent goals of each person:
+Therefore, it is useful for us to define our inherent goals. We are answering the question:  What is good *in and of itself*, not just because it is in the service of another goal?
+
+I propose the following are everyone's inherent goals:
+
 * To achieve happiness for yourself. This entails surviving comfortably.
 * To achieve happiness for other people.
 * To connect with other people. This means hearing and understanding their life stories, and having them understand your life story.
 * To know truth and knowledge. To understand what's going on in the world and how the universe works.
 
-Most anyone should agree that these are good things. In order to show they are *inherent* goals, though, we must show that each one is not good only because it is used to obtain another. But this also means there will be no way to explain *why* it is good. It will seem good *just because*. 
+Most anyone should agree that these are good things. In order to show they are *inherent* goals, though, we must show that each one is not good only because it is used to obtain another. But this also means there is no way to explain *why* it is good. It will seem good *just because*. 
 
 This is a hard section to write because it's impossible to justify the claims I'm making. Because of that, I understand if you don't fully believe everything I'm saying here. However, I hope that you can at least humor me and agree to roll with these for the remainder of this document.
 
-That said, I will attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: in each one, three of the goals are satisfied and one is missing. For each, I will propose that it seems like a bad world. It will seem like a world you wouldn't deliberately make choices to create. There will be no justification, it will just seem bad. That will show that all four of the goals are necessary for making a good world.
+That said, I will still attempt to justify these inherent goals as well as I can. To do that, I will imagine four worlds: in each one, three of the goals are satisfied and one is missing. For each, I will propose that it seems like a *bad* world: It will seem like a world that you wouldn't choose to create if you had a choice. That will show that all four of the goals are necessary for making a good world.
 
 ### A world where you are not happy
 
@@ -62,7 +61,7 @@ Imagine a world where the people around you are happy, and you've talked with ea
 
 ### A world where others are not happy
 
-Imagine a similar world, except in this one everyone else is suffering but you. Note that you *are* happy in this world even though everyone else isn't (I guess this means you have no empathy). Even though you are happy, is the a world you would choose to create? For me, it isn't. If you could choose to make other people happy too, you might as well, right? Therefore, the happiness of other people is inherently good, and is not only good because it makes you happy.
+Imagine a similar world, except in this one everyone else is suffering but you. Note that you *are* happy in this world even though everyone else isn't (I guess this means you have no empathy). Even though you are happy, is the a world you would choose to create? For me, it isn't. If you could choose to make other people happy too, you might as well, right? Therefore, the happiness of other people is inherently good, and is not good only because it makes you happy.
 
 ### A world where people aren't connected
 
@@ -70,7 +69,11 @@ Now imagine a world where everyone is happy even though people never talk to eac
 
 ### A world without truth and knowledge
 
-To justify this one, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel fake and shallow, for some reason. Reality (and therefore, truth) matters.
+Would you choose a world where everyone lives happy lives but is completely ignorant of how the universe works? Or a world where everyone lives happy lives but consistently believes false rumors about what their other people are doing? Even though believing these falsehoods has no impact on their happiness, this is still not a world I would choose to create.
+
+Talking to people, I've found that this is the inherent goal people have the hardest time accepting. So I will add a few more exacmples.
+
+First, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel *fake* and *shallow*, for some reason. We crave authenticity. Reality matters.
 
 Here's another thought experiment: Imagine that your signficant other has cheated on you (also imagine that cheating is something that would upset you). Imagine that this cheating only happens once and carries no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
@@ -78,13 +81,13 @@ Here's another thought experiment: Imagine that your signficant other has cheate
 
 As stated eariler, there are multiple goals which are inherently good. Each of these goals does not exist merely to help achieve the other goals. This entails it is possible for these goals to conflict.
 
-Truth conflicting with happiness is a simple case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
+Happiness conflicting with truth is a simple and common case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
 
 It's not an easy choice. In one case you lose out on happiness, and in the other case you lose out on truth. Because attaining happiness and truth are both goals, it's not obvious what the better case is.
 
-Therfore, the only way to make this choice is to *weigh* the goals for this specific case. We can apply this principle: If the loss of happiness is small and the gain to truth is big, we should choose truth. But if the loss of happiness is big and the gain of truth is small, we should choose happiness. Most choices in life are like this. We must weigh conflicting goals.
+Therfore, the only way to make this choice is to *weigh* the goals for this specific case. We can apply this principle: If the loss of happiness is small and the gain to truth is big, we should choose truth. But if the loss of happiness is big and the gain of truth is small, we should choose happiness. Most choices in life are like this, requring us to weigh conflicting goals.
 
-Now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question in this website. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
+But now we have a new problem: How do we quantify whether a loss of happiness or truth is "big" or "small"? I can't answer that question here. For one, this very much depends on personal values. And two, this very much depends on the specific details of the situation. It cannot be determined in a general, abstract, philosophical sense.
 
 ## Incremental effects
 
@@ -94,7 +97,7 @@ Consider an example case of deciding whether or not to eat in a vegetarian way. 
 
 I've often seen people talk about this like it's a binary choice. The claim is that people usually "become vegetarian" and then never eat a piece of meat ever again. That's a good choice for the world, and we should applaud those people.
 
-However, we must be careful to mind that 99% vegetarianism is *almost* as good, and those people should be applauded *almost* as much. If your goal is to reduce carbon emissions, then someone who eats vegetarian 99% of the time is having 99% of the impact. (Actually, it may not be exactly 99% impact, but let's not sweat the details. My point is that it has most of the impact.)
+However, we must acknowledge that 99% vegetarianism is *almost* as good, and those people should be applauded *almost* as much. If your goal is to reduce carbon emissions, then someone who eats vegetarian 99% of the time is having 99% of the impact. (Actually, it may not be exactly 99% impact, but let's not sweat the details. My point is that it has most of the impact.)
 
 The same can be said for any percentage of vegetarianism. 75% vegetarianism is less good than 99% but better than 0%. Similarly 50% vegetarianism is less good than 75% but better than 0%. And so on.
 
@@ -110,7 +113,7 @@ But wait! How certain are we that imposing the tariff will have the stated effec
 
 Having more data and experience will help you reduce uncertainty and make decisions more confidently. But there will always be some uncertainty. It's important to be cognizant of how much uncertainty there is. Decisions need to be made taking into account how certain you are of the potential outcomes. 
 
-Consider another angle on uncertainty: Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed when making decisions.
+Or, said another way: Would you make a choice that has a small chance of great success, or one that has a large chance of small success? This is yet another tradeoff that needs to be weighed when making decisions.
 
 ## Anomalies and patterns
 
@@ -124,39 +127,71 @@ This leads us to the following general principle: Often, anomalous negative effe
 
 ## Sum up
 
-When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental, not black and white, and consider the in-between choices. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
+When making choices, consider what the effects are on competing life goals (truth, happiness, etc.). Understand that effects are often incremental and consider the in-between choices. Be sure to weigh probabilties of actually obtaining the expected effects. Understand that isolated incidents of badness may be tolerated, but patterns of badness must be addressed.
 
 # A wider view of morality
 
-I have presented a framework with which you can evaluate choices and make decisions. In theory, that should be all you need for a complete system of morality. However, that section only presents a microscopic view of decision making, and a complete system of morality also needs a macroscopic view. I will fill that in here.
+I have presented a framework with which you can evaluate choices and make decisions. In theory, that should be all you need for a complete system of morality. However, that section only presents a microscopic view of decision making, and a complete system of morality also needs a macroscopic view. I will fill that in here, and examine some of the inherent goals in a wider context.
 
 ## Utilitarianism and justice
 
-In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do what creates the most goodness for the world.
+In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do what creates the most goodness (or "utility") for the world.
 
-But actually, I don't think utilitariniasm is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals, because the independence of other people must be respected.
+But actually, I don't think utilitarianism is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals, because the independence of other people must be respected.
 
-To understand this, consider the following thought experiment I heard in my ethics class [TODO thought experiment about hospital]
+To understand this, consider the following thought experiment I heard in my ethics class:
 
-## The specialness of people
+Nancy is a surgeon at a hospital. Nancy's hospital is currently taking care of some very important people, such as a world-class scientist on the cusp of formualating a theory of everything, a world-class artist who has entertained and inspired people around the world, and a world-class diplomat who has ended a great war and is needed to keep the world from falling into war yet again. But these people are dying. The scientist needs a liver transplant, the artist needs a lung transplant, and the diplomat needs a heart transplant. Unfortunately, the hospital lacks the resources.
 
-The concept of justice arises from a core tenet of human morality: the inherent specialness of people.
+But life at the hospital continues. One day, a youth named Debbie shows up at the hospital. Debbie is just passing through a needs a place to stay for the night. Nancy allows Debbie to stay, and they get to talking. In their conversation, Nancy learns that Debbie is an orphan with no home, family, or friends. Debbie is uneducated and has no interest in learning. From their conversation, it becomes clear to Nancy that Debbie has no future and will likely fall to crime and drugs. It becomes clear that Debbie will never do any good for the world.
 
-Up until this point I have pretened that the happiness of yourself and others is quantifiable. Unfortunately, it isn't.
+Should Nancy kill Debbie and redistribute Debbie's organs to save the world-class scientist, artist, and diplomat? No, of course not. Even though this would certainly increase the amount of goodness in the world, it is not *just*. In fact, this tenet of morality is so deeply ingrained in us that the idea of killing Debbie has probably not even crossed Nancy's mind.
 
-Human beings cannot be ascribed a value. They do not have zero value, they do not have infinite value, and they do not have some finite value. The concept of value actually does not even apply. This is what distinguishes people from objects. They are sacred.
+### The specialness of people
 
-[TODO: Examples with the death of one person, two people]
+The concept of justice points out a distinct aspect of morality: the inherent "specialness" or sacredness of people. There is an idea that each and every person is important and must be respected. That they must be treated with justice. 
 
-## The irrationality of ethics
+Furthemore, I argue this specialness is exactly what it means to be a person. Morality says you can destory a robot and use its parts to create other better things. But you cannot do that with a person. People are a special case in morality. One day in the future, people may feel the same way about robots. Then we will know robots have attained personhood.
 
-[TODO: How can we hope to be rational if the value of people cannot be weighed precisely? We can't]
+I will attempt to formalize this "specialness". How does it fit into the inherent goals I talked about earlier? The goals of making yourself and other people happy.
 
-## The ethics of "I don't know"
+It doesn't. Up until this point I have pretened that the happiness of yourself and others is quantifiable. But unfortunately, this isn't the case.
 
-[TODO: Thought experiment about two children falling off a boat]
+Formally, the "specialness" of people is the statement that people cannot be ascribed a value. They do not have a set value, and they do not have zero value either. The concept of value actually does not even apply. This is what distinguishes people from objects. Objects are only worth as much as their value, so if an object can be destroyed to create another object of higher value, it should be.
+
+I will now show that the concept of value does not apply to people.
+
+#### People do not have zero value
+
+If a person dies, it is bad. Therefore, a person cannot have zero value.
+
+#### People do not have a finite value
+
+If two people die, it is worse than if one person dies. But how much worse? Is it twice as worse? No, I don't think you could say that. Maybe it's something like 1.9x worse, or 2.1x worse? No, I don't think you could ever come to a conclusion like that, either. In fact, I don't think we have any way to quanify how much worse it is. It's worse, but not worse by a specific amount. Therefore, people must not have a set value.
+
+### The irrationality of ethics
+
+How can we hope to make decisions rationally if the value of people and their happiness cannot be weighed precisely?
+
+We can't. Believing in the "specialness" of people entails that ethics must be irrational. Ethics is fuzzy. We can say things like "two people being unhappy is worse than one person being unhappy", but we cannot say how much worse. And therefore it is possible to construct situations that are undecideable.
+
+Would you go out of your way to make one person unhappy in order to make two other people happy? Maybe not, because it is unjust. Would you make one person unhappy to make everyone else on Earth happy? Maybe. Maybe justice is outweighed at that point. What about if it would make 50% of people on Earth happy? Is it worth it then? What about 25%? 75%? I argue that there is a whole, huge grey area where you simply will not know what to do. You cannot weigh precisely. There is not an obvious choice.
+
+### The ethics of "I don't know"
+
+We can construct any number of thought experiments the ethics are fuzzy enough that we simply cannot tell what to do.
+
+Here's one: You're on a boat with your two children. Suddenly you hit a wave, and one of your children falls off the right side of the boat, and your other child falls off the left side of the boat. You only have time to save one of the children from drowning. What do you do? (Or more importantly, what is your thought process?)
+
+I propose that you simply would not know what to do. You wouldn't start reasoning in your head about which one has the most potential to do good for the world, and save that one. They are both special to you, and you're not going to reason out why one is better than the other.
+
+In the end, you would act and save one of them. Because saving one is better than standing there and doing nothing. But you would have no justification for *why* you saved a particular one. You might even be able to say some reasons if asked, but you would know in your heart that nothing can truly justify not saving the other.
+
+Ultimately, we must accept that there are certain decisions where the only response is "I don't know.", and yet we must choose to act anyway.
 
 ## On facts and lies
+
+Let us now examine the inherent goal of truth and knowledge more closely.
 
 I hope I've made the case that truth is an inherent goal. Therefore, morality dictates we should tell the truth. However, this principle is not always so simple, so I will expand upon it.
 
