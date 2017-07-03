@@ -213,29 +213,64 @@ It is true that when faced with a potentially malicious person, it is in Nancy's
 
 # Identity and culture
 
+Up until this point, I have been writing about decision making (ethics). I am now going to write about an entirely different topic that I care about: the concept of identity.
+
 ## All that matters is what you do, not who you are
 
-I do not comment on ideologies or groups of people. I only comment on actions.
+What matters is satisfying the inherent goals while obeying principles of justice. The inherent goals are only affected by concrete actions taken in the world, not by thoughts.
+
+Therefore, I will not comment on the goodness or badness of ideologies and groups of people. I will only comment on the goodness and badness of actions.
+
+## Who am I?
 
 Do not ask me if I am a liberal or a conservative. I don't think that's a very useful question to ask. Instead, ask me what actions I think the country should take on a particular issue. That's what really matters.
 
-I don't identify as a liberal, or a conservative, or a moderate, or anything. I'm just myself and I have opinions on which actions should be taken in given scenarios. You can agree or disagree with those actions. You can provide evidence and arguments in support or criticism of those actions. That's much more focused than attempting to argue against the entire concept of liberalism or the entire concept of conservativism, and therefore more likely to produce useful ideas.
+Do not ask me if I am a man or a woman. Would that tell you what kind of job I should have? Would that tell you what kind of clothes I should wear? Would it tell you which other people I am friends with? What kind of books I read or shows I watch? No, it would not. Anyone could have any kind of job, anyone could wear any clothes. Anyone could be friends with anyone. Anyone could read any books or watch any shows. Therefore, it is not a useful question to ask.
 
-Do not ask me if I am straight or gay or something else. Instead ask me if I want to have sex with a particular person.
+Do not ask me if I am straight or gay or something else. Instead ask me if I want to have sex with a particular person -- that's what you really wanted to know, right?
 
-Do not ask me if I am a man or a woman. Would that tell you what kind of job I should have? Would that tell you what kind of clothes I should wear? Would it tell you which other people I am friends with? What kind of books I read or shows I watch? No, it would not. Anyone could have any kind of job, anyone could wear any clothes. Anyone could be friends with anyone. Anyone could read any books or watch any shows. When people apply the label of "man" or "woman" to themselves, it means they want to associate with a given set of steretypes and social roles. Well, I associate with no stereotypes or social roles. I will do whatever I want, regardless if it's a thing that only men are supposed to do or only women are supposed to do.
+Do not ask me if I am a vegetarian. Instead, ask if I would choose to eat a given food.
 
-Identifying as something means applying that label to yourself. Labels can be helpful: they are shorthands for describing what actions you think should be taken in given scenarios. For example, if someone identifies as a liberal, you can make reasonable guesses about what actions they think the country should take in response to certain issues. That kind of shorthand can be helpful, since it is convenient. Labels have other benefits, too. For example, they can provide rallying cries, or banners to march behind.
+I don't identify as a liberal, or a conservative, or a moderate. I don't identify as a man or a woman, as straight or gay, or vegetarian. I'm just myself and I have opinions on which actions should be taken in given scenarios. I don't think the action of identifying as anything is helpful. All that matters is what you do, not who you are.
+
+Identifying as something means applying that label to yourself. I apply no labels to myself or to other people.
+
+## Identity can be helpful
+
+I know reasons why other people identify as things.
+
+Labels can be helpful: they are shorthands for describing what actions you think should be taken in given scenarios. For example, if someone identifies as a liberal, you can make reasonable guesses about what actions they think the country should take in response to certain issues. That kind of shorthand can be helpful, since it is convenient. 
+
+Labels have other benefits, too. They can provide rallying cries, or banners to march behind. They can provide support groups. If you find other people with your same label, it comforts you.
+
+## Identity can be harmful
 
 But even though labels have these sorts of benefits, I think their cons are far stronger, and it is for that reason I refuse to apply labels to myself or others.
 
-Labels encourage echo chambers. Just repeating talking points without thinking through subtleties. Us vs. them mentalities, where other human beings are labeled as demons, as enemies, to be ignored and shunned. They encourage ad hominem attacks, where arguments are ignored on the basis of who they come from rather than for their own benefits. In short, labels erode reasonable argument and conversation.
+Labels limit you. If you consider yourself as being a certain label, you will be less open minded about what you can and cannot do. The label is your preconceived notion about what you do.
 
-When you think to yourself: "I'm the kind of person who's not good at math." you become not good at math. It is a self-fulfilling prophesy. I fully believe that most people are able to become good at any one given thing if only they put in the effort. But people labeling themselves limits themselves.
+When you think to yourself: "I'm the kind of person who's not good at math.", you become not good at math. That kind of label is just an excuse to not try. It is a self-fulfilling prophesy. Anyone could become good at math if they put in the effort.
 
-When you label yourself, hearing any argument against your label's position you interpret as a personal attack on your own identity. And once the goodness of your person is brough into question, you will no longer hear logic.
+Labels encourage "us vs. them" mentalities. They make people divide the world into those who have the label, and those who don't. This encourages ad hominem attacks, where arguments are discounted on the basis of who they come from, rather than for their own merits.
+
+Labels encourage echo chambers. People congregate with other that have the same label because it makes them feel more comfortable. Then they say only what the others in the group want to hear, so they are more accepted. This encourages lazy argumentation, just repeating talking points without delving into the possibly uncomfortable subtleties.
+
+When you label yourself, you will interpet arguments against your label's position as a personal attacks. And once your own self is called into question, your insecurities will trigger and you will no longer hear logic.
+
+In short, identifying erodes intelligent conversation.
+
+## Asking questions is almost always okay
+
+Identifying as a label encourages you to treat certain topics as sacred and unquestionable. Questions are to be scoffed at: "How dare someone question this, any good person should agree!" But this is bad, because it erodes intelligent conversation. Asking questions is almost always okay.
+
+Why wouldn't it be? You might propose that asking certain question is bad because the answer is really obvious, and it's a waste of time to answer it. But, if the answer is really so obvious, it should be a quick answer, right? Therefore, it wouldn't be too much of a waste of time.
+
+That's the cool thing about questions. Obvious questions have quick and easy answers, so there's no harm in asking them. Whereas non-obvious questions have difficult and nuanced answers, but since it's a non-obvious question, it deserves to be asked. Therefore, it's okay to ask almost all questions.
 
 ## On culture
 
-Culture is equivalent to identity. All the problems that I complained identity has, culture also has. Therefore I recommend culture being avoided in excess.
+Culture is a group of people with shared identity. All the problems that I said identity has, culture also has. Therefore I recommend culture being avoided in excess.
 
+## The only label that matters is "person"
+
+The only thing I label myself and others as is a person. Thinking of yourself and others as a person is necessary for upholding principles of justice. There may be some cons for using this label: perhaps it encourages "us vs. them" mentalities with respects to animals, machines, and the natural world. But I think this label is worth it most the time.
