@@ -193,20 +193,23 @@ Ultimately, we must accept that there are certain decisions where the only respo
 
 Let us now examine the inherent goal of truth and knowledge more closely.
 
-I hope I've made the case that truth is an inherent goal. Therefore, morality dictates we should tell the truth. However, this principle is not always so simple, so I will expand upon it.
+If truth is good, then ethics dictates we should tell the truth. However, this principle is not always so simple, so I will expand upon it.
 
-It's possible to be misleading by stating true facts, and this is as bad as lying. Also, telling certain lies is sometimes justifiable, if it leads people to better understands. I will illustrate these two points.
+*It's possible to be misleading by stating true facts, and this is as bad as lying*. Also, telling certain lies is sometimes justifiable, if it leads people to better understanding. I will illustrate these two points.
 
-Consider a scenario with two characters: Nancy and Debbie. Nancy asks Debbie: "Do you have five children?". Debbie does in fact have five children, but Debbie responds "I have a child."
+### Misleading with facts is as bad as lying
 
-In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not five." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, being misleading with truth facts in this case is equivalent to lying.
+To justify this, I will use a thought experiment I heard in a linguistics class. 
+
+Consider a scenario where Nancy asks Debbie: "Do you have four children?". Debbie does in fact have five children, but Debbie responds "I have a child."
+
+In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not four." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, this is a case where being misleading with true facts is equivalent to lying.
 
 Politicians do this all the time: say a thing which is technically true but likely to mislead people who don't think carefully. This is just as unethical as lying.
 
 Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
 
 It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
-
 
 # Identity and culture
 
