@@ -3,7 +3,6 @@ layout: page
 title: Thoughts
 permalink: /thoughts/
 ---
-
 # What should you do?
 
 This is the essential question. It's the one question you face every moment in your life, determining what next action you take. In one sense, this is a very easy question to answer: You should do what best achieves your goals. But in another sense it is a very hard question to answer, because it prompts some difficult follow-up questions: What are your goals? Which actions will best achieve them? How do you even tell when your goals are best achieved? These are very hard questions to answer, and attempting to answer them will generate further questions still. 

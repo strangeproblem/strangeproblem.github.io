@@ -3,7 +3,6 @@ layout: page
 title: About and disclaimers
 permalink: /about/
 ---
-
 # About and disclaimers
 
 Hello. I am the person who wrote this website. This website is a repository of my personal thoughts to be shared with anyone who is interested.
