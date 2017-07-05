@@ -254,6 +254,14 @@ Why wouldn't it be? You might propose that asking certain question is bad becaus
 
 That's the cool thing about questions. Obvious questions have quick and easy answers, so there's no harm in asking them. Whereas non-obvious questions have difficult and nuanced answers, but since it's a non-obvious question, it deserves to be asked. Therefore, it's okay to ask almost all questions.
 
+## Society's labels
+
+In an ideal world, labeling would not occur. However, in our world, society *will* label you and other people, whether you like it or not. It is not practical to just ignore these labels and pretend they do not exist. You should be cognizant of these labels, and sometimes it is necessary to react to them.
+
+When I give the advice "Do not label yourself.", I am speaking of how you think of yourself internally. This can be different from how you present yourself to society. Internally, you should think of yourself with no label. You can be anyone and do anything: you are not limited by an identity. 
+
+Furthermore, do not judge others by the labels society gives them. Again, you should be cognizant of these labels, because this may give you deeper insight into their life. However, when you personally judge another person, do not judge them by the labels; judge them by the actions they take in context of their life.
+
 ## On culture
 
 Culture is a group of people with shared identity. All the problems that I said identity has, culture also has. Therefore I recommend culture being avoided in excess.
