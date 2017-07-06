@@ -198,7 +198,7 @@ If truth is good, then ethics dictates we should tell the truth. However, this p
 
 To justify this, I will use a thought experiment I heard in a linguistics class. 
 
-Consider a scenario where Nancy asks Debbie: "Do you have four children?". Debbie does in fact have five children, but Debbie responds "I have a child."
+Consider a scenario where Nancy asks Debbie: "Do you have four children?". Debbie does in fact have four children, but Debbie responds "I have a child."
 
 In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not four." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, this is a case where being misleading with true facts is equivalent to lying.
 
@@ -207,6 +207,30 @@ Politicians do this all the time: say a thing which is technically true but like
 Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
 
 It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
+
+### Sometimes lies give better understanding
+
+Now consider the opposite case, where a lie can actually lead people to a better understanding of the world.
+
+Here's the scenario: Nancy is teaching a math class. Nancy flips a coin, and while it is in the air, Nancy tells the students: "There is a 50% chance the coin lands heads, and a 50% chance the coin lands tails."
+
+This is a lie. Actually, the coin will for certain land heads, or it will for certain land tails. It depends on the precise angle and force that Nancy flipped it with. If we could freeze time while the coin was in the air, and do a bunch of complicated physics calculations, it would be possible to determine with certainty which would occur. There is no chance. It is going to be one way or the other.
+
+Here's another example: it is a lie to state there is a 50% chance of rain today. It will either rain today for certain or not, depending on the exact atmospheric conditions. If we could do all the complicated physics calculations, we could tell for sure. There is no "random chance" involved.
+
+The same reasoning applies to all macroscopic instances of chance and probability. Probability does not exist on a macroscopic scale (it may truly exist on a quantum scale; that's still up for debate).
+
+So if probability is a lie, why do people talk about it so much?
+
+It's because it is a *useful* lie. When you flip a coin, it is not practical to do all the complicated physics calculations to predict exactly what will happen. Instead, we can *pretend* as if the coin is random, and it turns out this roughly describes its behavior. 
+
+If the coin was truly random, and you flipped it 100 times, you can do some easy math and calculate that you should get about 50 heads and 50 tails, with some variance. It turns out, if you actually flip a real coin 100 times, that is roughly what will happen. The coin is not truly random, but it behaves almost as if it were.
+
+We say that probability is a *simplifying model* of the world. It does not *truly* describe the world, but it provides us with a simple framework that to allow us to make rough (and useful) predictions about how the real world behaves.
+
+In general, simplifying models lies, but they are useful lies that can actually give people deeper understanding of how the world works. Knowing that flipping a coin behaves almost as if it were random is good knowledge.
+
+Just be careful that your models don't omit important details.
 
 # Identity and culture
 
