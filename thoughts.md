@@ -124,57 +124,67 @@ I have presented a framework with which you can evaluate choices and make decisi
 
 In the section on decision making, I explained that you should make decisions that optimize your goals. Following this principle leads one to a system of morality called *utilitarianism*: you should do what creates the most goodness (or "utility") for the world.
 
-But actually, I don't think utilitarianism is a complete system of morality, because it ignores the concept of *justice*. Justice says you cannot do bad things to people if they do not "deserve" it, even if it is for the greater good. It is not acceptable to arbitrarily rearrange the world to optimize goals, because the independence of other people must be respected.
+But actually, I don't think utilitarianism is a complete system of morality, because it ignores the concept of *justice*. Justice says you should not do bad things to people if they do not "deserve" it, even if it is for the greater good. In other words, it is not acceptable to arbitrarily rearrange the world to optimize goals, because the independence of other people must be respected.
 
 To understand this, consider the following thought experiment I heard in my ethics class:
 
-Nancy is a surgeon at a hospital. Nancy's hospital is currently taking care of some very important people, such as a world-class scientist on the cusp of formualating a theory of everything, a world-class artist who has entertained and inspired people around the world, and a world-class diplomat who has ended a great war and is needed to keep the world from falling into war yet again. But these people are dying. The scientist needs a liver transplant, the artist needs a lung transplant, and the diplomat needs a heart transplant. Unfortunately, the hospital lacks the resources.
+Nancy is a surgeon at a hospital. Nancy's hospital is currently taking care of some very important people: a world-class scientist on the cusp of formualating a theory of everything, a world-class artist who has entertained and inspired people around the world, and a world-class diplomat who has ended a great war and is needed to keep the world from falling into war yet again. But these people are dying. The scientist needs a liver transplant, the artist needs a lung transplant, and the diplomat needs a heart transplant. Unfortunately, the hospital lacks the resources.
 
-But life at the hospital continues. One day, a youth named Debbie shows up at the hospital. Debbie is just passing through a needs a place to stay for the night. Nancy allows Debbie to stay, and they get to talking. In their conversation, Nancy learns that Debbie is an orphan with no home, family, or friends. Debbie is uneducated and has no interest in learning. From their conversation, it becomes clear to Nancy that Debbie has no future and will likely fall to crime and drugs. It becomes clear that Debbie will never do any good for the world.
+Life at the hospital continues. One day, a youth named Debbie shows up at the hospital. Debbie is just passing through a needs a place to stay for the night. Nancy allows Debbie to stay, and they get to talking. In their conversation, Nancy learns that Debbie is an orphan with no home, family, or friends. Debbie is uneducated and has no interest in learning. From their conversation, it becomes clear to Nancy that Debbie has no future and will likely fall to crime. It becomes clear that Debbie will never do any good for the world.
 
-Should Nancy kill Debbie and redistribute Debbie's organs to save the world-class scientist, artist, and diplomat? No, of course not. Even though this would certainly increase the amount of goodness in the world, it is not *just*. In fact, this tenet of morality is so deeply ingrained in us that the idea of killing Debbie has probably not even crossed Nancy's mind.
+*Should Nancy kill Debbie and redistribute Debbie's organs to save the world-class scientist, artist, and diplomat?*
+
+No, of course not. Even though this action would almost certainly increase the amount of goodness in the world, it is not *just*. 
+
+In fact, this tenet of morality is so deeply ingrained in human morality that the idea of killing Debbie has probably not even crossed Nancy's mind.
 
 ### The specialness of people
 
-The concept of justice points out a distinct aspect of morality: the inherent "specialness" or sacredness of people. There is an idea that each and every person is important and must be respected. That they must be treated with justice. 
+The concept of justice points out a distinct aspect of morality: the inherent "specialness" or sacredness of people. This is the idea that each and every person is important and must be respected. That they must be treated with justice. 
 
-Furthemore, I argue this specialness is exactly what it means to be a person. Morality says you can destory a robot and use its parts to create other better things. But you cannot do that with a person. People are a special case in morality. One day in the future, people may feel the same way about robots. Then we will know robots have attained personhood.
+Said another way, this is equivalent to the principle that minority groups should not be sacrificed for the benefit of majority groups, even if that would lead to a net increase in happiness for the world. Our goal is to make *every* person happy, not just increase the sum of happiness of the world.
 
-I will attempt to formalize this "specialness". How does it fit into the inherent goals I talked about earlier? The goals of making yourself and other people happy.
+Furthemore, I argue this specialness is exactly what it means to be a person. This specialness defines personhood.
+
+Morality says you can destory a robot and use its parts to create other better things. But you cannot do that with a person. People are a special case in morality, and that is exactly the difference between robots and people. One day in the future, people may feel that the concept of justice applies to robots, too. That is when we will know robots have attained personhood.
+
+### The value of people
+
+I will attempt to formalize this "specialness". How does it fit into the inherent goals I talked about earlier, the goal of making all people in the world happy?
 
 It doesn't. Up until this point I have pretened that the happiness of yourself and others is quantifiable. But unfortunately, this isn't the case.
 
-Formally, the "specialness" of people is the statement that people cannot be ascribed a value. They do not have a set value, and they do not have zero value either. The concept of value actually does not even apply. This is what distinguishes people from objects. Objects are only worth as much as their value, so if an object can be destroyed to create another object of higher value, it should be.
+Formally, the "specialness" of people is the statement that people and their happiness cannot be ascribed a value. They do not have a set value, and they do not have zero value either. The concept of value actually does not even apply. This is what distinguishes people from objects. Objects are only worth as much as their value, so if an object can be destroyed to create another object of higher value, it should be.
 
 I will now show that the concept of value does not apply to people.
 
 #### People do not have zero value
 
-If a person dies, it is bad. Therefore, a person cannot have zero value.
+If a person dies, it is bad. If a person is unhappy, it is bad. Therefore, a person cannot have zero value.
 
 #### People do not have a finite value
 
-If two people die, it is worse than if one person dies. But how much worse? Is it twice as worse? No, I don't think you could say that. Maybe it's something like 1.9x worse, or 2.1x worse? No, I don't think you could ever come to a conclusion like that, either. In fact, I don't think we have any way to quanify how much worse it is. It's worse, but not worse by a specific amount. Therefore, people must not have a set value.
+If two people die, it is worse than if one person dies. But how much worse? Is it twice as worse? No, I don't think you could say that. Maybe it's something like 1.9x worse, or 2.1x worse (adjusting for diminishing returns)? No, I don't think you could ever come to a conclusion like that, either. In fact, I don't think we have any way to quanify how much worse it is. It's worse, but not worse by a specific amount. Therefore, people cannot have a set value.
 
 ### The irrationality of ethics
 
 How can we hope to make decisions rationally if the value of people and their happiness cannot be weighed precisely?
 
-We can't. Believing in the "specialness" of people entails that ethics must be irrational. Ethics is fuzzy. We can say things like "two people being unhappy is worse than one person being unhappy", but we cannot say how much worse. And therefore it is possible to construct situations that are undecideable.
+We can't. Believing in the "specialness" of people entails that ethics must be irrational. Ethics is fuzzy. We can say things like "two people being unhappy is worse than one person being unhappy", but we cannot say exactly how much worse. That entails it is possible to construct situations that are undecideable.
 
-Would you go out of your way to make one person unhappy in order to make two other people happy? Maybe not, because it is unjust. Would you make one person unhappy to make everyone else on Earth happy? Maybe. Maybe justice is outweighed at that point. What about if it would make 50% of people on Earth happy? Is it worth it then? What about 25%? 75%? I argue that there is a whole, huge grey area where you simply will not know what to do. You cannot weigh precisely. There is not an obvious choice.
+Would choose to make one person unhappy in order to make two other people happy? Maybe not, because it is unjust. Would you choose to make one person unhappy to make everyone else on Earth happy? Maybe -- maybe justice is outweighed at that point. What about if it would make 50% of people on Earth happy? Is it worth it then? What about 25%? 75%? I propose that there is a huge grey area where you simply will not know what to do. You cannot weigh precisely. There is no obvious choice.
 
 ### The ethics of "I don't know"
 
-We can construct any number of thought experiments the ethics are fuzzy enough that we simply cannot tell what to do.
+We can construct any number of thought experiments the ethics are fuzzy enough that we simply cannot decide what to do.
 
 Here's one: You're on a boat with your two children. Suddenly you hit a wave, and one of your children falls off the right side of the boat, and your other child falls off the left side of the boat. You only have time to save one of the children from drowning. What do you do? (Or more importantly, what is your thought process?)
 
 I propose that you simply would not know what to do. You wouldn't start reasoning in your head about which one has the most potential to do good for the world, and save that one. They are both special to you, and you're not going to reason out why one is better than the other.
 
-In the end, you would act and save one of them. Because saving one is better than standing there and doing nothing. But you would have no justification for *why* you saved a particular one. You might even be able to say some reasons if asked, but you would know in your heart that nothing can truly justify not saving the other.
+In the end, you would act and save one of them. Because saving one is better than standing there and doing nothing. But you would have no justification for *why* you saved a particular one. You might even be able to say some reasons if asked, but you would know in your heart that nothing could truly justify not saving the other.
 
-Ultimately, we must accept that there are certain decisions where the only response is "I don't know.", and yet we must choose to act anyway.
+Ultimately, we must accept that there are certain decisions where the only response is "I don't know.", and yet we must make a choice and act anyway. Ethics are fuzzy. Sometimes we can make vague judgements about what is better or worse, but cannot fully justify it. This is the strange problem we people face in the world.
 
 ## On facts and lies
 
