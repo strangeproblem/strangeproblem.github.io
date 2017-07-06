@@ -238,9 +238,9 @@ Up until this point, I have been writing about decision making (ethics). I am no
 
 ## All that matters is what you do, not who you are
 
-What matters is satisfying the inherent goals while obeying principles of justice. The inherent goals are only affected by concrete actions taken in the world, not by thoughts.
+I hope I've made the case that what really matters is satisfying your inherent goals (while obeying principles of justice). Your inherent goals are only affected by concrete actions taken in the world, not by thoughts.
 
-Therefore, I will not comment on the goodness or badness of ideologies and groups of people. I will only comment on the goodness and badness of actions.
+Therefore, I will not comment on the goodness or badness of thoughts. I will not comment on ideologies or groups of people. I will only comment on the goodness and badness of actions.
 
 ## Who am I?
 
@@ -250,7 +250,7 @@ Do not ask me if I am a man or a woman. Would that tell you what kind of job I s
 
 Do not ask me if I am straight or gay or something else. Instead ask me if I want to have sex with a particular person -- that's what you really wanted to know, right?
 
-Do not ask me if I am a vegetarian. Instead, ask if I would choose to eat a given food.
+Do not ask me if I am a vegetarian. Instead, ask me if I would choose to eat a given food.
 
 I don't identify as a liberal, or a conservative, or a moderate. I don't identify as a man or a woman, as straight or gay, or vegetarian. I'm just myself and I have opinions on which actions should be taken in given scenarios. I don't think the action of identifying as anything is helpful. All that matters is what you do, not who you are.
 
@@ -272,9 +272,11 @@ Labels limit you. If you consider yourself as being a certain label, you will be
 
 When you think to yourself: "I'm the kind of person who's not good at math.", you become not good at math. That kind of label is just an excuse to not try. It is a self-fulfilling prophesy. Anyone could become good at math if they put in the effort.
 
+Labels facilitate stereotyping. If you think of someone as having a particular label, this means you have preconceived notions about what they do. These preconceived notions are often wrong and incredibly harmful.
+
 Labels encourage "us vs. them" mentalities. They make people divide the world into those who have the label, and those who don't. This encourages ad hominem attacks, where arguments are discounted on the basis of who they come from, rather than for their own merits.
 
-Labels encourage echo chambers. People congregate with other that have the same label because it makes them feel more comfortable. Then they say only what the others in the group want to hear, so they are more accepted. This encourages lazy argumentation, just repeating talking points without delving into the possibly uncomfortable subtleties.
+Labels encourage echo chambers. People congregate with others that have the same label because it makes them feel more comfortable. Then they say what the others in the group want to hear, so they are more accepted. This encourages lazy argumentation, just repeating talking points without delving into subtleties that are possibly uncomfortable for the group label.
 
 When you label yourself, you will interpet arguments against your label's position as a personal attacks. And once your own self is called into question, your insecurities will trigger and you will no longer hear logic.
 
@@ -284,9 +286,9 @@ In short, identifying erodes intelligent conversation.
 
 Identifying as a label encourages you to treat certain topics as sacred and unquestionable. Questions are to be scoffed at: "How dare someone question this, any good person should agree!" But this is bad, because it erodes intelligent conversation. Asking questions is almost always okay.
 
-Why wouldn't it be? You might propose that asking certain question is bad because the answer is really obvious, and it's a waste of time to answer it. But, if the answer is really so obvious, it should be a quick answer, right? Therefore, it wouldn't be too much of a waste of time.
+Why wouldn't it be? You might propose that asking certain question is bad if the answer is really obvious, because it's a waste of time to answer it. But, if the answer is really so obvious, it should be a quick answer, right? Therefore, it wouldn't be too much of a waste of time.
 
-That's the cool thing about questions. Obvious questions have quick and easy answers, so there's no harm in asking them. Whereas non-obvious questions have difficult and nuanced answers, but since it's a non-obvious question, it deserves to be asked. Therefore, it's okay to ask almost all questions.
+That's the good thing about questions. Obvious questions have quick and easy answers, so there's no harm in asking them. Whereas non-obvious questions have difficult and nuanced answers, but since it's a non-obvious question, it deserves to be asked. Therefore, it's okay to ask almost all questions.
 
 ## Society's labels
 
@@ -298,7 +300,9 @@ Furthermore, do not judge others by the labels society gives them. Again, you sh
 
 ## On culture
 
-Culture is a group of people with shared identity. All the problems that I said identity has, culture also has. Therefore I recommend culture being avoided in excess.
+Culture is a group of people with shared identity. All the problems that I said identity has, culture also has. 
+
+People take certain actions and justify them by saying "This is what our culture does.". In other words, they argue from the point of tradition. But tradition is not an inherent goal, and it cannot justify actions. All traditions can be questioned, and if their goodness does not hold up under scrutiny, they should be dropped. Therefore I recommend culture being avoided in excess.
 
 ## The only label that matters is "person"
 
