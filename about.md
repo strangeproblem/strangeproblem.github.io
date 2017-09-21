@@ -17,8 +17,6 @@ This website and its ideas are mutable. They are open to being questioned and ch
 
 Please keep in mind that just because I had these ideas at the time I was writing this website, it doesn't necessarily mean that I still have them today. This website may be outdated. I want to keep this website updated with my current thoughts, but no promises. Maybe one day I will forget about it.
 
-## On misinterpretation
+## Who am I?
 
-I recognize it's inevitable that many readers will misinterpret what I've written. Therefore, I plead you to be careful. Please, before getting angry at what I've written, carefully consider if you are understanding the *intent* behind the words. I mean no ill will towards anyone. My true wish is happiness for each and every person in the world. As you read through this website, please don't forget that.
-
-In order to help guard against misinterpretation, I have used no sarcasm in this website.
+I don't think it matters. Please judge my words for what they are, not on the basis of who said them.
