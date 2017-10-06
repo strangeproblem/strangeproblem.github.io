@@ -11,7 +11,7 @@ The first section of this website is dedicated to answering the question "What s
 
 ## Law and ethics
 
-Before we go much futher, let's clarify the difference between law and ethics. Law describes what you *can* do while ethics describes what you *should* do. In general, ethics is stricter than law. 
+Before we go much futher, let me define some terms I will use. Specifically, I'm defining my usage of the words "law" and "ethics". Law describes what you *can* do while ethics describes what you *should* do. In general, ethics is stricter than law. 
 
 To help understand this distinction, consider a scenario with two characters: Nancy and Debbie. Imagine that Nancy says something mean and insulting to Debbie. There's no law against this, the world would be a better place if Nancy hadn't said it. In other words, it wasn't something that Nancy *should* have done. Nancy acted legally, but unethically.
 
@@ -29,9 +29,9 @@ For example, consider the goal of becoming happy. There's no *reason* why you wa
 
 Therefore, it is useful for us to define our inherent goals. We are answering the question:  What is good *in and of itself*, not just because it is in the service of another goal?
 
-I propose the following are everyone's inherent goals:
+I propose the following are inherent goals:
 
-* To achieve happiness for yourself. This entails surviving comfortably.
+* To achieve happiness for yourself. (This includes surviving comfortably.)
 * To achieve happiness for other people.
 * To connect with other people. This means hearing and understanding their life stories, and having them understand your life story.
 * To know truth and knowledge. To understand what's going on in the world and how the universe works.
@@ -52,23 +52,23 @@ Imagine a similar world, except in this one everyone else is suffering but you. 
 
 ### A world where people aren't connected
 
-Now imagine a world where everyone is happy even though people never talk to each other or communicate in anyway (I guess the people in this world don't get lonely for whatever reason). But, even though everyone is happy, is this a world you would choose to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
+Now imagine a world where everyone is happy even though people never talk to each other or communicate in any way (I guess the people in this world don't get lonely for whatever reason). But, even though everyone is happy, is this a world you would choose to create? For me, it isn't. It just seems like missing the point of life (though again, I admit, I cannot explain why I feel this way).
 
 ### A world without truth and knowledge
 
 Would you choose a world where everyone lives happy lives but is completely ignorant of how the universe works? Or a world where everyone lives happy lives but consistently believes false rumors about what their other people are doing? Even though believing these falsehoods has no impact on their happiness, this is still not a world I would choose to create.
 
-Talking to people, I've found that this is the inherent goal people have the hardest time accepting. So I will add a few more exacmples.
+When I've talked to people, I've found that this is the inherent goal people have the hardest time accepting. So I will add a few more examples.
 
 First, I'll reiterate a thought experiment that was told to me in an ethics class I took. It goes like this: Imagine a world where everyone lives in virtual reality game all the time. And in this virtual reality everyone is made happy all the time. And it's a multiplayer game, so everyone can communicate with each other. Still, I argue this is not a world I want to live in. Even though I would happy in this game, I would still want to know what's happening in the *real world*. Why? Just because. The virtual reality world would feel *fake* and *shallow*, for some reason. We crave authenticity. Reality matters.
 
-Here's another thought experiment: Imagine that your signficant other has cheated on you (also imagine that cheating is something that would upset you). Imagine that this cheating only happens once and carries no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
+Here's another thought experiment: Imagine that your signficant other has cheated on you (also imagine that cheating is something that would upset you). Imagine that this cheating only happens once and happens to carry no health risks. If you didn't know, you could go on living blissfully unaware. Would you want to know? I would argue that you would want to know *even if that's guaranteed to make your life less happy*.
 
 ## Weighing conflicting goals
 
 As stated eariler, there are multiple goals which are inherently good. Each of these goals does not exist merely to help achieve the other goals. This entails it is possible for these goals to conflict.
 
-Happiness conflicting with truth is a simple and common case. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
+It is common for happiness to conflict with truth. In the cheating example from earlier, I said you would probably want to know if your significant other cheated on you. But maybe you, reader, don't personally feel that way. Maybe you would prefer to remain blissfully unaware.
 
 It's not an easy choice. In one case you lose out on happiness, and in the other case you lose out on truth. Because attaining happiness and truth are both goals, it's not obvious what the better case is.
 
@@ -92,7 +92,7 @@ Therefore, when weighing the effects on your goals from making choice, you must 
 
 ## Expected goodness
 
-Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out. 
+Suppose that you know your personal values very well. Does this mean it's easy to weigh conflicting goals in order to make decisions? No, because at the time you're making the decision, you're not exactly sure how things are going to turn out 
 
 Consider an example scenario where Nancy is a legislator deciding whether to impose a tariff on shoes. Nancy listens to arguments from both sides: If the tariff is imposed, it will hurt consumers by raising prices, but it will help the country's shoe industry. If the tariff is not imposed, the country's shoe industry will suffer, but consumers will have cheaper prices. Nancy weighs the situation and personal values and is prepared to make a decision.
 
@@ -110,7 +110,7 @@ Presented like this, it's not obvious what Nancy should do.
 
 Next, supposed that Debbie plays loud music *every single day* for weeks and weeks. Now, it's obvious that Nancy should confront Debbie. Why? Because the incremental negative effects have added up. It's important to understand that positive and negative effects accumulate.
 
-This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're *really* bad). However, patterns of negative effects must be dealt with. Otherwise, they will keep adding up and end up really bad.
+This leads us to the following general principle: Often, anomalous negative effects can be tolerated (unless they're really bad). However, *patterns* of negative effects must be dealt with. Otherwise, they will keep adding up and end up really bad.
 
 ## Sum up
 
@@ -142,21 +142,21 @@ In fact, this tenet of morality is so deeply ingrained in human morality that th
 
 The concept of justice points out a distinct aspect of morality: the inherent "specialness" or sacredness of people. This is the idea that each and every person is important and must be respected. That they must be treated with justice. 
 
-Said another way, this is equivalent to the principle that minority groups should not be sacrificed for the benefit of majority groups, even if that would lead to a net increase in happiness for the world. Our goal is to make *every* person happy, not just increase the sum of happiness of the world.
+Said another way, this is means that minority groups should not be sacrificed for the benefit of majority groups, even if that would lead to a net increase in happiness for the world. Our goal is to make *every* person happy, not just increase the sum of happiness of the world.
 
-Furthemore, I argue this specialness is exactly what it means to be a person. This specialness defines personhood.
+Furthemore, I argue this "specialness" is exactly what it means to be a person. This specialness defines personhood. To undestand why, consider the following:
 
-Morality says you can destory a robot and use its parts to create other better things. But you cannot do that with a person. People are a special case in morality, and that is exactly the difference between robots and people. One day in the future, people may feel that the concept of justice applies to robots, too. That is when we will know robots have attained personhood.
+Morality says you can destory a robot and use its parts to create other better things. But you cannot do that with a person. People are a special case in morality, and that is exactly the difference between robots and people. This is justice. One day in the future, people may feel that the concept of justice applies to robots, too. That is when we will know robots have attained personhood.
 
 ### The value of people
 
-I will attempt to formalize this "specialness". How does it fit into the inherent goals I talked about earlier, the goal of making all people in the world happy?
+I will attempt to formalize this "specialness". Does this fit into the inherent goals I talked about earlier, the goal of making all people in the world happy?
 
-It doesn't. Up until this point I have pretened that the happiness of yourself and others is quantifiable. But unfortunately, this isn't the case.
+It actually doesn't quite fit. Earlier, I had been pretending that the happiness of other people is some quantifiable substance that can be maximized. But unfortunately, this isn't the case.
 
-Formally, the "specialness" of people is the statement that people and their happiness cannot be ascribed a value. They do not have a set value, and they do not have zero value either. The concept of value actually does not even apply. This is what distinguishes people from objects. Objects are only worth as much as their value, so if an object can be destroyed to create another object of higher value, it should be.
+Formally, the "specialness" of people is the statement that people and their happiness cannot be ascribed a quantified value. People and their happiness do not have a set value, and they do not have zero value either. The concept of value actually does not even apply. This is what distinguishes people from objects (or robots). Objects are only worth as much as their value, so if an object can be destroyed to create another object of higher value, it should be.
 
-I will now show that the concept of value does not apply to people.
+I will now attempt to justify that the concept of value does not apply to people.
 
 #### People do not have zero value
 
@@ -168,11 +168,11 @@ If two people die, it is worse than if one person dies. But how much worse? Is i
 
 ### The irrationality of ethics
 
-How can we hope to make decisions rationally if the value of people and their happiness cannot be weighed precisely?
+How can we hope to make decisions rationally if the value of people and their happiness cannot be quantified and weighed precisely?
 
 We can't. Believing in the "specialness" of people entails that ethics must be irrational. Ethics is fuzzy. We can say things like "two people being unhappy is worse than one person being unhappy", but we cannot say exactly how much worse. That entails it is possible to construct situations that are undecideable.
 
-Would choose to make one person unhappy in order to make two other people happy? Maybe not, because it is unjust. Would you choose to make one person unhappy to make everyone else on Earth happy? Maybe -- maybe justice is outweighed at that point. What about if it would make 50% of people on Earth happy? Is it worth it then? What about 25%? 75%? I propose that there is a huge grey area where you simply will not know what to do. You cannot weigh precisely. There is no obvious choice.
+Would you choose to make one person unhappy in order to make two other people happy? Maybe not, because it is unjust. Would you choose to make one person unhappy to make everyone else on Earth happy? Maybe you would -- maybe justice is outweighed at that point. What about if it would make 50% of people on Earth happy? Is it worth it then? What about 25%? 75%? I propose that there is a huge grey area where you simply will not know what to do. You cannot weigh precisely. There is no obvious choice.
 
 ### The ethics of "I don't know"
 
@@ -200,13 +200,13 @@ To justify this, I will use a thought experiment I heard in a linguistics class.
 
 Consider a scenario where Nancy asks Debbie: "Do you have four children?". Debbie does in fact have four children, but Debbie responds "I have a child."
 
-In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not four." Debbie has not lied, but Debbie has been misleading by ommitting information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, this is a case where being misleading with true facts is equivalent to lying.
+In this situation, Debbie has said a true fact: Debbie does in fact have a child. However, Nancy is likely to interpret this response as meaning "I have exactly one child but not four." Debbie has not lied, but Debbie has been misleading by ommitting relevant information. Debbie has led Nancy to the same incorrect conclusion that would have happened if Debbie had simply lied and said "No, I only have one." In other words, this is a case where being misleading with true facts is equivalent to lying.
 
 Politicians do this all the time: say a thing which is technically true but likely to mislead people who don't think carefully. This is just as unethical as lying.
 
 Before I go on, you might object by asking me: "Isn't Nancy at fault for not thinking carefully about what Debbie said?"
 
-It is true that when faced with a potentially malicious person, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
+It is true that if Nancy suspects Debbie of being malicious, it is in Nancy's best interest to act with prudence. However, it would be a better world if that was unnecessary and Debbie had not been misleading in the first place. Debbie did something Debbie *should* not have done -- therefore, Debbie acted unethically, which is what this document is concerned with.
 
 ### Sometimes lies give better understanding
 
@@ -218,7 +218,7 @@ This is a lie. Actually, the coin will for certain land heads, or it will for ce
 
 Here's another example: it is a lie to state there is a 50% chance of rain today. It will either rain today for certain or not, depending on the exact atmospheric conditions. If we could do all the complicated physics calculations, we could tell for sure. There is no "random chance" involved.
 
-The same reasoning applies to all macroscopic instances of chance and probability. Probability does not exist on a macroscopic scale (it may truly exist on a quantum scale; that's still up for debate).
+The same reasoning applies to all macroscopic instances of chance and probability. Probability does not exist on a macroscopic scale (it may truly exist on a quantum scale; that's still up for debate as far as I'm aware).
 
 So if probability is a lie, why do people talk about it so much?
 
@@ -228,6 +228,18 @@ If the coin was truly random, and you flipped it 100 times, you can do some easy
 
 We say that probability is a *simplifying model* of the world. It does not *truly* describe the world, but it provides us with a simple framework that to allow us to make rough (and useful) predictions about how the real world behaves.
 
-In general, simplifying models lies, but they are useful lies that can actually give people deeper understanding of how the world works. Knowing that flipping a coin behaves almost as if it were random is good knowledge.
+In general, simplifying models are lies, but they are useful lies that can actually give people deeper understanding of how the world works. Knowing that flipping a coin behaves almost as if it were random is good knowledge.
 
-Just be careful that your models don't omit important details.
+Just be careful that your models don't omit important details that cause them to become misleading.
+
+# On love
+
+I will now switch topics entirely to talk about something else that is important to me: love.
+
+In a way, this is actually related to a topic from earlier. I mentioned that connecting with other people is an inherent goal. Love is particularly intense way of connecting with people.
+
+## What is love?
+
+Love is desperately clinging together with someone you trust while facing this cruel, strange world. Love is never wanting to let go, even in the face of mortality.
+
+That's what love is to me, anyway. I acknowledge that different people experience love differently.
